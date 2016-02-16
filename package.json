@@ -1,0 +1,26 @@
+{
+  "name": "liriliri",
+  "version": "1.0.0",
+  "description": "HTML5 visual novel engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liriliri/liriliri.git"
+  },
+  "keywords": [
+    "visual",
+    "novel",
+    "HTML5",
+    "game",
+    "engine"
+  ],
+  "author": "redhoodsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liriliri/liriliri/issues"
+  },
+  "homepage": "https://github.com/liriliri/liriliri#readme"
+}
