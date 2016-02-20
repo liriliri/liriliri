@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/liriliri/liriliri/issues"
   },
-  "homepage": "https://github.com/liriliri/liriliri#readme"
+  "homepage": "https://github.com/liriliri/liriliri#readme",
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0"
+  }
 }
