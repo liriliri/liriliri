@@ -47,5 +47,18 @@ var liriliri =
 
 	"use strict";
 
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+	exports.default = {
+	    loadScript: function loadScript() {},
+	    loadPlugin: function loadPlugin() {},
+	    loadConfig: function loadConfig() {},
+	    start: function start() {},
+	    pause: function pause() {},
+	    resume: function resume() {},
+	    stop: function stop() {}
+	};
+
 /***/ }
 /******/ ]);
