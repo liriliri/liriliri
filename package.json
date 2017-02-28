@@ -1,6 +1,6 @@
 {
   "name": "liriliri",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "HTML5 visual novel engine",
   "main": "index.js",
   "scripts": {
